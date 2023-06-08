@@ -4,3 +4,10 @@ https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, r
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
 indicators. There are 124 indicators collected from variety of states and cities.
+
+https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/9psv-r5iz. This dataset provides state-aggregated data for
+ hospital utilization. These are derived from reports with facility-level granularity across three main sources: 
+(1) National Healthcare Safety Network (NHSN) (after December 15, 2022) (2) HHS TeleTracking (before December 15, 2022), 
+(3) reporting provided directly to HHS Protect by state/territorial health departments on behalf of their healthcare facilities, and 
+(4) historical NHSN timeseries data (before July 15, 2020). Data in this file have undergone routine data quality review of key variables of 
+interest by subject matter experts to identify and correct obvious data entry errors.
