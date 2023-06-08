@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/hasyimabdillah/workoutexercises-images
+Dataset containing images of people doing different exercises
