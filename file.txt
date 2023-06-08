@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/skiplik/my-first-experience-with-datascience/input?select=airports.csv
+
+# us airline dataset from Kaggle
