@@ -4,3 +4,5 @@ https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, r
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
 indicators. There are 124 indicators collected from variety of states and cities.
+
+https://www.iii.org/fact-statistic/facts-statistics-sports-injuries Contains a list of sports and their injury rates by age, as well as some data on roadway fatality numbers.
