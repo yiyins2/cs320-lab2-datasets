@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/vivovinco/nba-player-stats?resource=download
+This a link to a 2021-2022 NBA player stats from Kaggle.
