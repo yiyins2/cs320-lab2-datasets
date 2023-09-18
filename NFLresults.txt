@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data NFL game result data since 1966 with betting odds since 1979
