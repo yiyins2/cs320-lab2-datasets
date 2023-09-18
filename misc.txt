@@ -4,3 +4,5 @@ https://toolbox.google.com/datasetsearch.  This search tool is in Beta, but it p
 
 https://www.hockey-reference.com/boxscores/?__hstc=213859787.8f9b32c47e07c7c162276688b6be7c35.1644600016241.1644600016241.1644600016241.1&__hssc=213859787.1.1644600016241&__hsfp=892684130   This is a hockey reference page that contains information for pretty much all hockey stats (seasons, teams, players, coaches, drafts, box scores) in the history of the NHL.
 
+https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+This is a dataset that contains registered vehicle collisions in NYC
