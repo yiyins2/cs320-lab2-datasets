@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/philmorekoung11/luxury-watch-listings
+
+About Dataset
+This free to use dataset contains over 280,000 listings of luxury watches including features such as list price, model, reference number, and case material. The exact brands contained in this dataset are listed below:
+
+Rolex, Omega, Patek Philippe, Audemars Piguet, Breitling, Tudor, Cartier, Panerai, IWC, Seiko, Jaeger-LeCoultre, TAG Heuer, Hublot, Zenith, Vacheron Constantin, LonginesA. Lange & Söhne, Richard Mille, Breguet, Ulysse Nardin, Hamilton, NOMOS, Oris, Sinn
