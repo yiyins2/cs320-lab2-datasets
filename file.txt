@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/harshalhonde/tsunami-events-dataset-1900-present
+A link to a random kaggle dataet about tsunamis
