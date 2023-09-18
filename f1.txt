@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020 #Data from Formula 1 races 1950-2023
