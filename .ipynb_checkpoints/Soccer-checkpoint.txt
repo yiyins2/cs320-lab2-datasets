@@ -1,0 +1,3 @@
+https://www.myfootballfacts.com/premier-league/all-time-premier-league/premier-league-ladders/ contains premier league table data since 1992
+
+https://www.kaggle.com/datasets/abecklas/fifa-world-cup contains results of all world cup games
