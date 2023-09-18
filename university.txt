@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/Madgrades/uw-madison-courses	Everyone should know about MadGrades if you go to UW. This is a dataset they uploaded to Kaggle.com of all the gradepoint data from UW-Madison for all classes and sections from 2006 to 2017.
