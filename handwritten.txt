@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/ashishguptajiit/handwritten-az. This dataset contains 28x28 pixel images of handwritten letters.
+I used this dataset for one of my CS 540 projects!
