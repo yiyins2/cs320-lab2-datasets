@@ -3,3 +3,5 @@ https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml: You can
 http://data-cityofmadison.opendata.arcgis.com/.  City of Madison data about parking, bike traffic, and much more.
 
 https://zenodo.org/record/4296040/files/Mono_Continuous.z01?download=1 . Guitar records dataset
+
+https://data-cityofmadison.opendata.arcgis.com/datasets/cityofmadison::city-maintained-street-lights-luminaire/explore?location=0.259849%2C-22.054408%2C0.86
