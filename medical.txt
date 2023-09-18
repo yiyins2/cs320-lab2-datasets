@@ -3,4 +3,4 @@ https://www.cms.gov/OpenPayments.  This dataset makes financial relationships be
 https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, regarding food recalls, adverse reactions to drugs, and approved medical devices.
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
-indicators. There are 124 indicators collected from variety of states and cities.
+indicators. There are 124 indicators collected from variety of states and cities. The data collected are available for  states and big metropolitan areas.
