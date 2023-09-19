@@ -1,0 +1,1 @@
+https://github.com/nytimes/covid-19-data - this is COVID-19 data by state, tracked and published by the New York Times.
