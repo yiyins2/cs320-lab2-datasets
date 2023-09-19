@@ -1,0 +1,10 @@
+link: https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches
+description:
+This dataset contains 50000 ranked ladder matches from the Dota 2 data dump created by Opendota. It was inspired by
+the Dota 2 Matches data published here by Joe Ramir. This is an update and improved version of that dataset. I have kept the same image and a similar title.
+
+Dota 2 is a popular MOBA available as free to play, and can take up thousands of hours of your life. The number of games in this dataset are played about every hour. If you like the data there are an additional 2-3 million matches easily available for download.
+
+The aim of this dataset is to enable the exploration of player behavior, skill estimation, or anything you find interesting. The intent is to create an accessible, and easy to use resource, which can be expanded and modified if needed. As such I am open to a wide variety of suggestions as to what additions or changes to make.
+
+
