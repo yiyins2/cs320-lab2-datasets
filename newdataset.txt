@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/rishisankineni/text-similarity/versions/1?resource=download
+#has a dataset with text similarity, inside contains two csv files, test and train
