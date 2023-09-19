@@ -1,0 +1,4 @@
+Here is the link:https://www.kaggle.com/datasets/crawford/80-cereals
+
+In this link you can find the dataset. Context
+If you like to eat cereal, do yourself a favor and avoid this dataset at all costs. After seeing these data it will never be the same for me to eat Fruity Pebbles again. 
