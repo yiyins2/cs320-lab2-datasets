@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/kmader/siim-medical-images #Provides 475 CT scans from 69 cancer patients, varying in age. This dataset will help a model idenitfy image textures, patterns, and features correlating with these patients traits and diagnosis.
