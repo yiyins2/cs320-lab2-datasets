@@ -4,3 +4,6 @@ https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, r
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
 indicators. There are 124 indicators collected from variety of states and cities.
+https://data.cdc.gov/api/views/hk9y-quqm/rows.json?accessType=DOWNLOAD
+Conditions contributing to covid-19 deaths, by state and age.
+
