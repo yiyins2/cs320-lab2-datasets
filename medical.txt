@@ -4,3 +4,5 @@ https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, r
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
 indicators. There are 124 indicators collected from variety of states and cities.
+
+https://www.kaggle.com/datasets/athirags/heart-disease-dataset. This dataset contains details about various indicators that could cause heart disease. Using these we can predict heart disease for individuals.
