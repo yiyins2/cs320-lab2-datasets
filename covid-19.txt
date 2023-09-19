@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/meirnizri/covid19-dataset
+
+The dataset was provided by the Mexican government (link). This dataset contains an enormous number of anonymized patient-related information including pre-conditions. This
+data was used for predicting COVID-19 cases.
