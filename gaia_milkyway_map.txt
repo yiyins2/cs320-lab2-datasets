@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia?resource=download
+
+A sub-set of the Gaia Data Release 3 data centered on the Sun for use in mapping the local Galaxy. 
+The data includes three columns, parallax, heliocentric longitude, and heliocentric latitudes.
