@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/rtatman/lego-database 
+^
+This is a link to a lego database which contains the parts, sets, and color inventories
+of every official Lego set
