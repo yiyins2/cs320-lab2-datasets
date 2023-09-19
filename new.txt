@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors
+
+Dataset about different countries and regions along with various metrics relatedto happiness
