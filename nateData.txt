@@ -1,0 +1,6 @@
+Agent   Abbr    S       I       R
+Ampicillin      AMP     <=8     16      >=32
+Cefotetan       CTT     <=16    32      >=64
+Cefdinir        CFD     <=1     2       >=4
+Ertapenem       ERT     <=2     4       >=8
+Ticarcillin     TIC     <=16    32-64   >=128
