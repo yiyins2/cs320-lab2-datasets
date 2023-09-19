@@ -1,3 +1,4 @@
-macrostrat.org  #Geological database, which contains information about stratigraphy and sedimentology for North America and others different regions of the world
+geoscience.txt
+https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia
+This maps stars in the Milky Way Galaxy
 
-paleobiodb.org #Largest paleontological database, contains information about fossil ocurences in the world
