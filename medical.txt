@@ -4,3 +4,6 @@ https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, r
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
 indicators. There are 124 indicators collected from variety of states and cities.
+
+https://data.cdc.gov/Motor-Vehicle/Impaired-Driving-Death-Rate-by-Age-and-Gender-2012/ebbj-sh54/explore/query/SELECT%0A%20%20%60state_not_geocoded%60%2C%0A%20%20%60state_geocoded%60%2C%0A%20%20%60all_ages%60%2C%0A%20%20%60all_ages_2014%60%2C%0A%20%20%60ages_0_20%60%2C%0A%20%20%60ages_0_20_2014%60%2C%0A%20%20%60ages_21_34%60%2C%0A%20%20%60ages_21_34_2014%60%2C%0A%20%20%60ages_35%60%2C%0A%20%20%60ages_35_2014%60%2C%0A%20%20%60male%60%2C%0A%20%20%60male_2014%60%2C%0A%20%20%60female%60%2C%0A%20%20%60female_2014%60%2C%0A%20%20%60%3A%40computed_region_hjsp_umg2%60%2C%0A%20%20%60%3A%40computed_region_skr5_azej%60/page/filter 
+CDC's dataset of motor vehicle death rate while driving impaired.
