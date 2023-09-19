@@ -1,0 +1,6 @@
+https://github.com/awesomedata/awesome-public-datasets/blob/master/Datasets/titanic.csv.zip
+
+It is a dataset contains the information of people aboard titanic.
+
+
+
