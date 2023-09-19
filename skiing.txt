@@ -1,0 +1,6 @@
+https://www.statista.com/statistics/867678/sales-skis-snowboards-skiing-equipment-worldwide/
+
+
+This is a data set comparing different types of skiing equipment baught 
+around the world in the year 2019/2020 until 2020/2021. It is looking at 
+the sales of indivisual years.
