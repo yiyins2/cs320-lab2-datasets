@@ -4,3 +4,6 @@ https://open.fda.gov/tools/downloads/.  The FDA has posted many datasets here, r
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi.   CDC's medical datasets for chronic disease disorder 
 indicators. There are 124 indicators collected from variety of states and cities.
+
+https://www.mpi.nl/dbmpi/sedb/sperco_form4.pl. Max Planck Institute for Psycholinguistics. Corpus of speech errors coded by target language, error type, process procedure, and process direction
+
