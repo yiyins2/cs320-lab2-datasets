@@ -3,3 +3,5 @@ https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml: You can
 http://data-cityofmadison.opendata.arcgis.com/.  City of Madison data about parking, bike traffic, and much more.
 
 https://zenodo.org/record/4296040/files/Mono_Continuous.z01?download=1 . Guitar records dataset
+
+https://www.kaggle.com/datasets/goldenoakresearch/us-household-income-stats-geo-locations - US Household Income Statisctics 
