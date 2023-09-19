@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/kapturovalexander/tiktok-google-play-reviews
+
+it shows tiktok Google Play review data
