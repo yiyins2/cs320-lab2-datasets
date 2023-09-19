@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/luisgilch/stock-data-with-industry-information
+
+This dataset contains stock information
