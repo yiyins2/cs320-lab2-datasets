@@ -1,0 +1,4 @@
+Link to dataset: https://www.kaggle.com/datasets/meeratif/happiness-index
+this dataset contains overall rankings of countries for happiness and 
+homicide rates. It helps tell us about how countries rate in regards to 
+their citizens happiness as well as how common homicides are.
