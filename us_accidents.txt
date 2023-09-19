@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
+This is a countrywide car accident dataset that covers 49 states
+ of the USA.
