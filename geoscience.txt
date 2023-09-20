@@ -1,3 +1,5 @@
 macrostrat.org  #Geological database, which contains information about stratigraphy and sedimentology for North America and others different regions of the world
 
 paleobiodb.org #Largest paleontological database, contains information about fossil ocurences in the world
+
+https://www.usgs.gov/national-hydrography #A website for the USGS National Geospatial proram, who manage the National Hydrography Dataset, Watershed Boundary Dataset, and NHDPlus High Resolution. These datasets represent the surface water of the United States for mapping and modeling applications.
